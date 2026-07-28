@@ -39,6 +39,6 @@ export const config = {
     IMAGEKIT_PRIVATE_KEY: process.env.IMAGEKIT_PRIVATE_KEY?.trim(),
     RAZORPAY_KEY_ID: process.env.RAZORPAY_KEY_ID?.trim(),
     RAZORPAY_KEY_SECRET: process.env.RAZORPAY_KEY_SECRET?.trim(),
-    CLIENT_URL: (process.env.CLIENT_URL || "http://localhost:5173").trim()
+    CLIENT_URL: (process.env.CLIENT_URL || "https://snitcher-six.vercel.app").trim()
 }
 
