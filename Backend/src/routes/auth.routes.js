@@ -25,10 +25,11 @@ router.get("/google", (req, res, next) => {
 
 router.get("/google/callback", (req, res, next) => {
     passport.authenticate("google", { session: false }, (err, user, info) => {
+        const clientUrl = config.CLIENT_URL || process.env.CLIENT_URL || "http://localhost:5173";
         if (err || !user) {
             console.error("Passport Google Auth Error Details:", err || info);
             const errCode = err?.code || err?.message || "google_auth_failed";
-            return res.redirect(`http://localhost:5173/login?error=${encodeURIComponent(errCode)}`);
+            return res.redirect(`${clientUrl}/login?error=${encodeURIComponent(errCode)}`);
         }
         req.user = user;
         return googleCallback(req, res, next);

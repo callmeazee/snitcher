@@ -11,10 +11,11 @@ async function sendTokenResponse(user, res, message) {
         expiresIn: "7d"
     })
 
+    const isProd = config.NODE_ENV === "production";
     res.cookie("token", token, {
         httpOnly: true,
-        secure: config.NODE_ENV === "production",
-        sameSite: "lax",
+        secure: isProd,
+        sameSite: isProd ? "none" : "lax",
         maxAge: 7 * 24 * 60 * 60 * 1000,
         path: "/"
     })
@@ -84,18 +85,19 @@ export const login = async (req, res) => {
 }
 
 export const googleCallback = async (req, res) => {
+    const clientUrl = config.CLIENT_URL || process.env.CLIENT_URL || "http://localhost:5173";
     try {
         if (!req.user) {
             console.error("googleCallback Error: req.user is missing");
-            return res.redirect("http://localhost:5173/login?error=no_user");
+            return res.redirect(`${clientUrl}/login?error=no_user`);
         }
 
-        const { id, displayName, emails, photos } = req.user
+        const { id, displayName, emails, photos } = req.user;
         const email = emails?.[ 0 ]?.value;
 
         if (!email) {
             console.error("googleCallback Error: No email in Google profile", req.user);
-            return res.redirect("http://localhost:5173/login?error=no_email");
+            return res.redirect(`${clientUrl}/login?error=no_email`);
         }
 
         const profilePic = photos?.[ 0 ]?.value || "";
@@ -104,7 +106,7 @@ export const googleCallback = async (req, res) => {
 
         let user = await userModel.findOne({
             email
-        })
+        });
 
         if (!user) {
             user = await userModel.create({
@@ -112,33 +114,34 @@ export const googleCallback = async (req, res) => {
                 googleId: id,
                 fullname,
                 role
-            })
+            });
         } else if (!user.googleId) {
             user.googleId = id;
             await user.save();
         }
 
-
         const token = jwt.sign({
             id: user._id,
         }, config.JWT_SECRET, {
             expiresIn: "7d"
-        })
+        });
 
+        const isProd = config.NODE_ENV === "production";
         res.cookie("token", token, {
             httpOnly: true,
-            secure: config.NODE_ENV === "production",
-            sameSite: "lax",
+            secure: isProd,
+            sameSite: isProd ? "none" : "lax",
             maxAge: 7 * 24 * 60 * 60 * 1000,
             path: "/"
-        })
+        });
 
-        return res.redirect("http://localhost:5173/")
+        return res.redirect(`${clientUrl}/`);
     } catch (error) {
         console.error("googleCallback Error:", error);
-        return res.redirect("http://localhost:5173/login?error=server_error");
+        const clientUrl = config.CLIENT_URL || process.env.CLIENT_URL || "http://localhost:5173";
+        return res.redirect(`${clientUrl}/login?error=server_error`);
     }
-}
+};
 
 export const getMe = async (req, res) => {
     const user = req.user;
@@ -157,10 +160,11 @@ export const getMe = async (req, res) => {
 }
 
 export const logout = async (req, res) => {
+    const isProd = config.NODE_ENV === "production";
     res.clearCookie("token", {
         httpOnly: true,
-        secure: config.NODE_ENV === "production",
-        sameSite: "lax",
+        secure: isProd,
+        sameSite: isProd ? "none" : "lax",
         path: "/"
     });
     return res.status(200).json({
