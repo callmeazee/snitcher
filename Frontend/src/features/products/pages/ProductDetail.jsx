@@ -92,10 +92,28 @@ const ProductDetail = () => {
     }, [ activeVariant ]);
 
     const handleAttributeChange = (attrName, value) => {
-        setSelectedAttributes(prev => ({
-            ...prev,
-            [ attrName ]: value
-        }));
+        if (!product?.variants) return;
+        const targetAttrs = { ...selectedAttributes, [ attrName ]: value };
+
+        // 1. Try exact match for all target attributes
+        let match = product.variants.find(v => {
+            const vAttrs = getPlainAttributes(v.attributes);
+            return Object.entries(targetAttrs).every(([ k, vVal ]) => vAttrs[ k ] === vVal);
+        });
+
+        // 2. If no exact match, prioritize the newly selected attribute (e.g. Color)
+        if (!match) {
+            match = product.variants.find(v => {
+                const vAttrs = getPlainAttributes(v.attributes);
+                return vAttrs[ attrName ] === value;
+            });
+        }
+
+        if (match) {
+            setSelectedAttributes(getPlainAttributes(match.attributes));
+        } else {
+            setSelectedAttributes(targetAttrs);
+        }
     };
 
     const onAddToCart = async () => {

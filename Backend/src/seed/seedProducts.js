@@ -13,6 +13,13 @@ const sampleProducts = [
             { url: "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80" }
         ],
         variants: [
+            // Raw Indigo
+            {
+                images: [ { url: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 20,
+                attributes: { "Color": "Raw Indigo", "Size": "30" },
+                price: { amount: 4499, currency: "INR" }
+            },
             {
                 images: [ { url: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 20,
@@ -20,15 +27,29 @@ const sampleProducts = [
                 price: { amount: 4499, currency: "INR" }
             },
             {
+                images: [ { url: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 20,
+                attributes: { "Color": "Raw Indigo", "Size": "34" },
+                price: { amount: 4499, currency: "INR" }
+            },
+
+            // Jet Black
+            {
                 images: [ { url: "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 15,
-                attributes: { "Color": "Jet Black", "Size": "34" },
+                attributes: { "Color": "Jet Black", "Size": "30" },
                 price: { amount: 4499, currency: "INR" }
             },
             {
-                images: [ { url: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80" } ],
-                stock: 12,
-                attributes: { "Color": "Washed Slate", "Size": "30" },
+                images: [ { url: "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 15,
+                attributes: { "Color": "Jet Black", "Size": "32" },
+                price: { amount: 4499, currency: "INR" }
+            },
+            {
+                images: [ { url: "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 15,
+                attributes: { "Color": "Jet Black", "Size": "34" },
                 price: { amount: 4499, currency: "INR" }
             }
         ]
@@ -42,6 +63,7 @@ const sampleProducts = [
             { url: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80" }
         ],
         variants: [
+            // Off-White
             {
                 images: [ { url: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 25,
@@ -49,15 +71,23 @@ const sampleProducts = [
                 price: { amount: 3299, currency: "INR" }
             },
             {
+                images: [ { url: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 25,
+                attributes: { "Color": "Off-White", "Size": "L" },
+                price: { amount: 3299, currency: "INR" }
+            },
+
+            // Sand Dune
+            {
                 images: [ { url: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 18,
-                attributes: { "Color": "Sand Dune", "Size": "L" },
+                attributes: { "Color": "Sand Dune", "Size": "M" },
                 price: { amount: 3299, currency: "INR" }
             },
             {
-                images: [ { url: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80" } ],
-                stock: 10,
-                attributes: { "Color": "Sage Green", "Size": "XL" },
+                images: [ { url: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 18,
+                attributes: { "Color": "Sand Dune", "Size": "L" },
                 price: { amount: 3299, currency: "INR" }
             }
         ]
@@ -71,40 +101,32 @@ const sampleProducts = [
             { url: "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80" }
         ],
         variants: [
+            // Obsidian Black
+            {
+                images: [ { url: "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 8,
+                attributes: { "Color": "Obsidian Black", "Size": "M" },
+                price: { amount: 12999, currency: "INR" }
+            },
             {
                 images: [ { url: "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 8,
                 attributes: { "Color": "Obsidian Black", "Size": "L" },
                 price: { amount: 12999, currency: "INR" }
             },
+
+            // Espresso Brown
             {
                 images: [ { url: "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 5,
-                attributes: { "Color": "Espresso Brown", "Size": "XL" },
+                attributes: { "Color": "Espresso Brown", "Size": "M" },
                 price: { amount: 12999, currency: "INR" }
-            }
-        ]
-    },
-    {
-        title: "Graphite Heavyweight Loopback Hoodie",
-        description: "450 GSM organic French terry cotton hoodie. Features double-layered hood, ribbed side gussets, and seamless pocket tailoring.",
-        price: { amount: 2799, currency: "INR" },
-        images: [
-            { url: "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80" },
-            { url: "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80" }
-        ],
-        variants: [
-            {
-                images: [ { url: "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80" } ],
-                stock: 30,
-                attributes: { "Color": "Charcoal", "Size": "M" },
-                price: { amount: 2799, currency: "INR" }
             },
             {
-                images: [ { url: "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80" } ],
-                stock: 22,
-                attributes: { "Color": "Heather Grey", "Size": "L" },
-                price: { amount: 2799, currency: "INR" }
+                images: [ { url: "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 5,
+                attributes: { "Color": "Espresso Brown", "Size": "L" },
+                price: { amount: 12999, currency: "INR" }
             }
         ]
     },
@@ -117,6 +139,7 @@ const sampleProducts = [
             { url: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80" }
         ],
         variants: [
+            // Tailored Black in 32 & 34
             {
                 images: [ { url: "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 14,
@@ -124,33 +147,24 @@ const sampleProducts = [
                 price: { amount: 3999, currency: "INR" }
             },
             {
+                images: [ { url: "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 14,
+                attributes: { "Color": "Tailored Black", "Size": "34" },
+                price: { amount: 3999, currency: "INR" }
+            },
+
+            // Camel Tan in 32 & 34 (Now Tan image is linked to BOTH 32 and 34!)
+            {
+                images: [ { url: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80" } ],
+                stock: 11,
+                attributes: { "Color": "Camel Tan", "Size": "32" },
+                price: { amount: 3999, currency: "INR" }
+            },
+            {
                 images: [ { url: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80" } ],
                 stock: 11,
                 attributes: { "Color": "Camel Tan", "Size": "34" },
                 price: { amount: 3999, currency: "INR" }
-            }
-        ]
-    },
-    {
-        title: "Midnight Velvet Tuxedo Blazer",
-        description: "Statement evening blazer in deep velvet with silk satin peak lapels. Single-button silhouette with internal ticket pockets.",
-        price: { amount: 8999, currency: "INR" },
-        images: [
-            { url: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80" },
-            { url: "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80" }
-        ],
-        variants: [
-            {
-                images: [ { url: "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80" } ],
-                stock: 7,
-                attributes: { "Color": "Midnight Navy", "Size": "L" },
-                price: { amount: 8999, currency: "INR" }
-            },
-            {
-                images: [ { url: "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80" } ],
-                stock: 4,
-                attributes: { "Color": "Bordeaux Red", "Size": "M" },
-                price: { amount: 8999, currency: "INR" }
             }
         ]
     }
@@ -181,7 +195,7 @@ async function seedCatalog() {
             sampleProducts.map(p => productModel.create({ ...p, seller: sellerUser._id }))
         );
 
-        console.log(`✅ Successfully seeded ${insertedProducts.length} luxury products with multiple color/size variants!`);
+        console.log(`✅ Successfully seeded ${insertedProducts.length} luxury products with full color/size variant coverage!`);
         process.exit(0);
     } catch (err) {
         console.error("Seeding failed:", err);
