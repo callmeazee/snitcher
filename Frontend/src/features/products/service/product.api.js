@@ -16,7 +16,7 @@ productApiInstance.interceptors.request.use((config) => {
 });
 
 export async function createProduct(formData) {
-    const response = await productApiInstance.post("/", formData)
+    const response = await productApiInstance.post("", formData)
 
     return response.data
 }
@@ -27,7 +27,7 @@ export async function getSellerProduct() {
 }
 
 export async function getAllProducts() {
-    const response = await productApiInstance.get("/")
+    const response = await productApiInstance.get("")
     return response.data
 }
 
