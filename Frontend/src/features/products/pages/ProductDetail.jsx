@@ -141,6 +141,26 @@ const ProductDetail = () => {
         }
     };
 
+    const onBuyNow = async () => {
+        if (!user) {
+            navigate('/login');
+            return;
+        }
+        const varId = activeVariant?._id || product?.variants?.[ 0 ]?._id;
+        try {
+            setIsAdding(true);
+            await handleAddItem({
+                productId: product?._id,
+                variantId: varId
+            });
+            navigate('/cart');
+        } catch (err) {
+            addToast({ message: 'Failed to proceed with Buy Now.', type: 'error' });
+        } finally {
+            setIsAdding(false);
+        }
+    };
+
     if (!product) {
         return (
             <div className="min-h-screen flex items-center justify-center selection:bg-[#C9A96E]/30" style={{ backgroundColor: '#fbf9f6' }}>
@@ -320,7 +340,9 @@ const ProductDetail = () => {
                                 </button>
 
                                 <button
-                                    className="w-full py-4 text-[11px] uppercase tracking-[0.25em] font-medium transition-all duration-300 border"
+                                    onClick={onBuyNow}
+                                    disabled={isAdding}
+                                    className="w-full py-4 text-[11px] uppercase tracking-[0.25em] font-medium transition-all duration-300 border cursor-pointer hover:bg-[#1b1c1a] hover:text-[#fbf9f6]"
                                     style={{
                                         backgroundColor: 'transparent',
                                         borderColor: '#d0c5b5',
@@ -334,7 +356,7 @@ const ProductDetail = () => {
                                         e.currentTarget.style.borderColor = '#d0c5b5';
                                     }}
                                 >
-                                    Buy Now
+                                    {isAdding ? <LuxurySpinner size="sm" /> : 'Buy Now'}
                                 </button>
                             </div>
 
