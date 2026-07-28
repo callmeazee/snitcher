@@ -221,8 +221,8 @@ const Cart = () => {
                 style={{ backgroundColor: tokens.surface, fontFamily: "'Inter', sans-serif" }}
             >
                 {/* ── Main Content ── */}
-                <div className="max-w-7xl mx-auto px-8 lg:px-16 xl:px-24 pt-12 lg:pt-20">
-                    <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 items-start">
+                <div className="max-w-7xl mx-auto px-4 sm:px-8 lg:px-16 xl:px-24 pt-8 lg:pt-20">
+                    <div className="flex flex-col lg:flex-row gap-8 lg:gap-20 items-start">
 
                         {/* ═══════════════════════════════════════════════
                             LEFT COLUMN — Cart Items (65%)
@@ -390,7 +390,7 @@ const Cart = () => {
 
                             {/* Policy strip */}
                             <div
-                                className="mt-10 pt-8 grid grid-cols-3 gap-4 text-[10px] uppercase tracking-[0.12em]"
+                                className="mt-10 pt-8 grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6 text-[10px] uppercase tracking-[0.12em]"
                                 style={{ borderTop: `1px solid ${tokens.surfaceHighest}`, color: tokens.muted }}
                             >
                                 <div>
@@ -413,7 +413,7 @@ const Cart = () => {
                         ═══════════════════════════════════════════════ */}
                         <div className="w-full lg:w-[35%] lg:sticky lg:top-28">
                             <div
-                                className="p-8 border border-[#e4e2df]"
+                                className="p-4 sm:p-8 border border-[#e4e2df]"
                                 style={{ backgroundColor: tokens.surfaceLowest, boxShadow: '0 20px 40px rgba(27,28,26,0.04)' }}
                             >
                                 {/* Heading */}
@@ -435,25 +435,25 @@ const Cart = () => {
                                     <label className="block text-[10px] uppercase tracking-[0.2em] font-medium text-[#7A6E63] mb-2">
                                         Promo / Discount Code
                                     </label>
-                                    <div className="flex gap-2 mb-2">
+                                    <div className="flex flex-col sm:flex-row gap-2 mb-2">
                                         <input
                                             type="text"
                                             value={couponInput}
                                             onChange={(e) => setCouponInput(e.target.value)}
                                             placeholder="Enter coupon code"
-                                            className="flex-1 px-3 py-2 text-xs uppercase tracking-[0.1em] border border-[#d0c5b5] bg-white focus:outline-none focus:border-[#C9A96E]"
+                                            className="w-full min-w-0 flex-1 px-3 py-2.5 text-xs uppercase tracking-[0.1em] border border-[#d0c5b5] bg-white focus:outline-none focus:border-[#C9A96E]"
                                         />
                                         {appliedCoupon ? (
                                             <button
                                                 onClick={handleRemoveCoupon}
-                                                className="px-4 py-2 text-[10px] uppercase tracking-[0.15em] font-medium bg-[#ba1a1a] text-white hover:bg-red-800 transition-colors"
+                                                className="w-full sm:w-auto px-5 py-2.5 text-[10px] uppercase tracking-[0.15em] font-medium bg-[#ba1a1a] text-white hover:bg-red-800 transition-colors"
                                             >
                                                 Remove
                                             </button>
                                         ) : (
                                             <button
                                                 onClick={() => handleApplyCoupon()}
-                                                className="px-4 py-2 text-[10px] uppercase tracking-[0.15em] font-medium bg-[#1b1c1a] text-white hover:bg-[#C9A96E] hover:text-[#1b1c1a] transition-colors"
+                                                className="w-full sm:w-auto px-5 py-2.5 text-[10px] uppercase tracking-[0.15em] font-medium bg-[#1b1c1a] text-white hover:bg-[#C9A96E] hover:text-[#1b1c1a] transition-colors"
                                             >
                                                 Apply
                                             </button>
@@ -462,13 +462,13 @@ const Cart = () => {
 
                                     {/* Quick Coupon Suggestions */}
                                     {!appliedCoupon && (
-                                        <div className="flex flex-wrap gap-1.5 mt-3 pt-2 border-t border-[#e4e2df]">
-                                            <span className="text-[9px] uppercase tracking-[0.1em] text-[#7A6E63] self-center mr-1">Try:</span>
+                                        <div className="flex flex-wrap items-center gap-2 mt-3 pt-2 border-t border-[#e4e2df]">
+                                            <span className="text-[9px] uppercase tracking-[0.1em] text-[#7A6E63] mr-1">Try:</span>
                                             {['SNITCH10', 'SNITCH20', 'FIRST500'].map(code => (
                                                 <button
                                                     key={code}
                                                     onClick={() => handleApplyCoupon(code)}
-                                                    className="px-2 py-1 text-[9px] uppercase tracking-[0.12em] font-medium bg-white border border-[#C9A96E] text-[#1b1c1a] hover:bg-[#C9A96E] hover:text-white transition-colors cursor-pointer"
+                                                    className="px-2.5 py-1 text-[9px] uppercase tracking-[0.12em] font-medium bg-white border border-[#C9A96E] text-[#1b1c1a] hover:bg-[#C9A96E] hover:text-white transition-colors cursor-pointer"
                                                 >
                                                     {code}
                                                 </button>
