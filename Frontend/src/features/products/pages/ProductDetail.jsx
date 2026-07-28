@@ -55,15 +55,23 @@ const ProductDetail = () => {
         // 1. Try exact match for all currently selected attributes
         const exactMatch = product.variants.find(v => {
             const vAttrs = getPlainAttributes(v.attributes);
-            return Object.entries(selectedAttributes).every(([ k, val ]) => vAttrs[ k ] === val);
+            return Object.entries(selectedAttributes).every(([ k, val ]) => String(vAttrs[ k ]) === String(val));
         });
 
         if (exactMatch) return exactMatch;
 
-        // 2. Try partial match for any selected attribute
+        // 2. Prioritize Color attribute match over secondary attributes (like Size)
+        const colorMatch = product.variants.find(v => {
+            const vAttrs = getPlainAttributes(v.attributes);
+            return selectedAttributes.Color && String(vAttrs.Color) === String(selectedAttributes.Color);
+        });
+
+        if (colorMatch) return colorMatch;
+
+        // 3. Fallback to any partial match or first variant
         const partialMatch = product.variants.find(v => {
             const vAttrs = getPlainAttributes(v.attributes);
-            return Object.entries(selectedAttributes).some(([ k, val ]) => vAttrs[ k ] === val);
+            return Object.entries(selectedAttributes).some(([ k, val ]) => String(vAttrs[ k ]) === String(val));
         });
 
         return partialMatch || product.variants[ 0 ];
