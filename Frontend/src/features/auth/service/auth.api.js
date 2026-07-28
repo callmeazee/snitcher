@@ -1,9 +1,10 @@
 import axios from "axios";
 
 const authApiInstance = axios.create({
-    baseURL: "/api/auth",
-    withCredentials: true,
-})
+  baseURL: "/api/auth",
+//   baseURL: `${"https://snitcher-o0xt.onrender.com"}/api/auth`,
+  withCredentials: true,
+});
 
 
 export async function register({ email, contact, password, fullname, isSeller }) {
