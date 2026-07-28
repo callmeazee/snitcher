@@ -3,16 +3,20 @@ import { useParams, Link, useNavigate } from 'react-router';
 import { useSelector } from 'react-redux';
 import { useProduct } from '../hooks/useProduct';
 import { useCart } from '../../cart/hook/useCart';
+import { useToast } from '../../../context/ToastContext';
+import { LuxurySpinner } from '../../../components/LuxuryLoader';
 
 const ProductDetail = () => {
     const { productId } = useParams();
     const [ product, setProduct ] = useState(null);
     const [ selectedImage, setSelectedImage ] = useState(0);
     const [ selectedAttributes, setSelectedAttributes ] = useState({});
+    const [ isAdding, setIsAdding ] = useState(false);
     const navigate = useNavigate();
     const user = useSelector(state => state.auth.user);
     const { handleGetProductById } = useProduct();
     const { handleAddItem } = useCart();
+    const { addToast } = useToast();
 
     const getPlainAttributes = (attributes) => {
         if (!attributes) return {};
@@ -101,13 +105,21 @@ const ProductDetail = () => {
         }
         const varId = activeVariant?._id || product?.variants?.[ 0 ]?._id;
         try {
+            setIsAdding(true);
             await handleAddItem({
                 productId: product?._id,
                 variantId: varId
             });
-            navigate('/cart');
+            addToast({
+                message: `Added ${product.title} to your Selection.`,
+                type: 'success',
+                actionText: 'View Cart',
+                onAction: () => navigate('/cart')
+            });
         } catch (err) {
-            console.error("Failed to add item to cart:", err);
+            addToast({ message: 'Failed to add piece to cart.', type: 'error' });
+        } finally {
+            setIsAdding(false);
         }
     };
 

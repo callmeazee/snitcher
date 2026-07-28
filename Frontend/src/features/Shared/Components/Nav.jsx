@@ -7,6 +7,7 @@ const Nav = () => {
     const navigate = useNavigate()
     const user = useSelector(state => state.auth.user)
     const cartItems = useSelector(state => state.cart?.items)
+    const totalCartCount = cartItems?.reduce((sum, item) => sum + (item.quantity || 1), 0) || 0;
     const { handleLogout } = useAuth()
 
     const onLogout = async () => {
@@ -40,20 +41,20 @@ const Nav = () => {
                                 <line x1="3" y1="6" x2="21" y2="6" />
                                 <path d="M16 10a4 4 0 0 1-8 0" />
                             </svg>
-                            {cartItems?.length > 0 && (
+                            {totalCartCount > 0 && (
                                 <span
-                                    className="absolute -top-2 -right-2 flex items-center justify-center rounded-full text-white"
+                                    className="absolute -top-2 -right-2 flex items-center justify-center rounded-full text-white shadow-sm animate-bounce"
                                     style={{
                                         backgroundColor: '#C9A96E',
-                                        width: '16px',
-                                        height: '16px',
+                                        width: '18px',
+                                        height: '18px',
                                         fontSize: '9px',
                                         fontFamily: "'Inter', sans-serif",
                                         fontWeight: 600,
                                         letterSpacing: 0,
                                     }}
                                 >
-                                    {cartItems.length > 9 ? '9+' : cartItems.length}
+                                    {totalCartCount > 9 ? '9+' : totalCartCount}
                                 </span>
                             )}
                         </Link>

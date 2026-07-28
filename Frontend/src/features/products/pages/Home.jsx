@@ -1,19 +1,49 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import { useProduct } from '../hooks/useProduct';
-import { Link } from 'react-router';
+import { useCart } from '../../cart/hook/useCart';
+import { useToast } from '../../../context/ToastContext';
+import { ProductGridSkeleton } from '../../../components/LuxuryLoader';
 import { useNavigate } from 'react-router';
 
 const Home = () => {
     const products = useSelector(state => state.product.products);
     const user = useSelector(state => state.auth.user);
     const { handleGetAllProducts } = useProduct();
+    const { handleAddItem } = useCart();
+    const { addToast } = useToast();
 
+    const [ loading, setLoading ] = useState(true);
     const navigate = useNavigate();
 
     useEffect(() => {
-        handleGetAllProducts();
+        let isMounted = true;
+        setLoading(true);
+        handleGetAllProducts().finally(() => {
+            if (isMounted) setLoading(false);
+        });
+        return () => { isMounted = false; };
     }, []);
+
+    const onQuickAdd = async (e, product) => {
+        e.stopPropagation();
+        if (!user) {
+            navigate('/login');
+            return;
+        }
+        const variantId = product.variants?.[ 0 ]?._id;
+        try {
+            await handleAddItem({ productId: product._id, variantId });
+            addToast({
+                message: `Added ${product.title} to your Selection.`,
+                type: 'success',
+                actionText: 'View Cart',
+                onAction: () => navigate('/cart')
+            });
+        } catch (err) {
+            addToast({ message: 'Failed to add item to cart.', type: 'error' });
+        }
+    };
 
     return (
         <>
@@ -27,11 +57,9 @@ const Home = () => {
                 className="min-h-screen selection:bg-[#C9A96E]/30"
                 style={{ backgroundColor: '#fbf9f6', fontFamily: "'Inter', sans-serif" }}
             >
-               
-
                 <div className="max-w-7xl mx-auto px-8 lg:px-16 xl:px-24">
                     {/* ── Hero / Header ── */}
-                    <div className="pt-20 pb-20 text-center flex flex-col items-center">
+                    <div className="pt-20 pb-16 text-center flex flex-col items-center">
                         <span className="text-[10px] uppercase tracking-[0.24em] font-medium mb-6" style={{ color: '#C9A96E' }}>
                             The Collection
                         </span>
@@ -46,25 +74,41 @@ const Home = () => {
                         </p>
                     </div>
 
-                    {/* ── Product Grid ── */}
-                    {products && products.length > 0 ? (
+                    {/* ── Product Grid or Skeleton ── */}
+                    {loading ? (
+                        <ProductGridSkeleton count={8} />
+                    ) : products && products.length > 0 ? (
                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-8 gap-y-16 pb-32">
                             {products.map(product => {
-                                const imageUrl = product.images && product.images.length > 0
-                                    ? product.images[ 0 ].url
-                                    : '/snitch_editorial_warm.png'; // Fallback
+                                const mainImage = product.images?.[ 0 ]?.url || '/snitch_editorial_warm.png';
+                                const hoverImage = product.images?.[ 1 ]?.url || mainImage;
 
                                 return (
                                     <div
                                         onClick={() => navigate(`/product/${product._id}`)}
-                                        key={product._id} className="group cursor-pointer flex flex-col">
-                                        {/* Image Container */}
-                                        <div className="aspect-[4/5] overflow-hidden mb-6" style={{ backgroundColor: '#f5f3f0' }}>
+                                        key={product._id} className="group cursor-pointer flex flex-col relative">
+                                        {/* Image Container with Hover Zoom & Secondary Image Preview */}
+                                        <div className="aspect-[4/5] overflow-hidden mb-6 relative" style={{ backgroundColor: '#f5f3f0' }}>
                                             <img
-                                                src={imageUrl}
+                                                src={mainImage}
                                                 alt={product.title}
-                                                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                                                className="w-full h-full object-cover transition-opacity duration-700 group-hover:opacity-0"
                                             />
+                                            <img
+                                                src={hoverImage}
+                                                alt={`${product.title} Alternate View`}
+                                                className="w-full h-full object-cover absolute inset-0 opacity-0 transition-all duration-700 group-hover:opacity-100 group-hover:scale-105"
+                                            />
+
+                                            {/* Quick Add Overlay Button */}
+                                            <div className="absolute inset-x-4 bottom-4 opacity-0 transform translate-y-3 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300">
+                                                <button
+                                                    onClick={(e) => onQuickAdd(e, product)}
+                                                    className="w-full py-3 bg-[#1b1c1a] text-[#fbf9f6] text-[10px] uppercase tracking-[0.2em] font-medium hover:bg-[#C9A96E] hover:text-[#1b1c1a] transition-colors shadow-lg"
+                                                >
+                                                    + Quick Add
+                                                </button>
+                                            </div>
                                         </div>
 
                                         {/* Product Details */}
@@ -83,13 +127,19 @@ const Home = () => {
                                                 {product.description}
                                             </p>
 
-                                            <div className="mt-2">
+                                            <div className="mt-2 flex items-center justify-between">
                                                 <span
                                                     className="text-[10px] uppercase tracking-[0.2em] font-medium"
                                                     style={{ color: '#1b1c1a' }}
                                                 >
-                                                    {product.price?.currency} {product.price?.amount?.toLocaleString()}
+                                                    {product.price?.currency || 'INR'} {product.price?.amount?.toLocaleString()}
                                                 </span>
+
+                                                {product.variants?.length > 1 && (
+                                                    <span className="text-[9px] uppercase tracking-[0.15em] text-[#C9A96E]">
+                                                        {product.variants.length} Colors
+                                                    </span>
+                                                )}
                                             </div>
                                         </div>
                                     </div>
