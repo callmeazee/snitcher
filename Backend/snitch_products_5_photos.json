@@ -10,23 +10,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c721"
+        "_id": "6a686d833b8f65086fdc30bc"
       },
       {
         "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c722"
+        "_id": "6a686d833b8f65086fdc30bd"
       },
       {
         "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c723"
+        "_id": "6a686d833b8f65086fdc30be"
       },
       {
         "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c724"
+        "_id": "6a686d833b8f65086fdc30bf"
       },
       {
         "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c725"
+        "_id": "6a686d833b8f65086fdc30c0"
       }
     ],
     "variants": [
@@ -34,23 +34,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c727"
+            "_id": "6a686d833b8f65086fdc30c2"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c728"
+            "_id": "6a686d833b8f65086fdc30c3"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c729"
+            "_id": "6a686d833b8f65086fdc30c4"
           },
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c72a"
+            "_id": "6a686d833b8f65086fdc30c5"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c72b"
+            "_id": "6a686d833b8f65086fdc30c6"
           }
         ],
         "stock": 20,
@@ -62,29 +62,29 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c726"
+        "_id": "6a686d833b8f65086fdc30c1"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c72d"
+            "_id": "6a686d833b8f65086fdc30c8"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c72e"
+            "_id": "6a686d833b8f65086fdc30c9"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c72f"
+            "_id": "6a686d833b8f65086fdc30ca"
           },
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c730"
+            "_id": "6a686d833b8f65086fdc30cb"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c731"
+            "_id": "6a686d833b8f65086fdc30cc"
           }
         ],
         "stock": 20,
@@ -96,29 +96,29 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c72c"
+        "_id": "6a686d833b8f65086fdc30c7"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c733"
+            "_id": "6a686d833b8f65086fdc30ce"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c734"
+            "_id": "6a686d833b8f65086fdc30cf"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c735"
+            "_id": "6a686d833b8f65086fdc30d0"
           },
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c736"
+            "_id": "6a686d833b8f65086fdc30d1"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c737"
+            "_id": "6a686d833b8f65086fdc30d2"
           }
         ],
         "stock": 15,
@@ -130,29 +130,29 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c732"
+        "_id": "6a686d833b8f65086fdc30cd"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c739"
+            "_id": "6a686d833b8f65086fdc30d4"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c73a"
+            "_id": "6a686d833b8f65086fdc30d5"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c73b"
+            "_id": "6a686d833b8f65086fdc30d6"
           },
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c73c"
+            "_id": "6a686d833b8f65086fdc30d7"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c73d"
+            "_id": "6a686d833b8f65086fdc30d8"
           }
         ],
         "stock": 15,
@@ -164,12 +164,12 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c738"
+        "_id": "6a686d833b8f65086fdc30d3"
       }
     ],
-    "_id": "6a686b8a35fb22fa5406c720",
-    "createdAt": "2026-07-28T08:42:50.936Z",
-    "updatedAt": "2026-07-28T08:42:50.936Z",
+    "_id": "6a686d833b8f65086fdc30bb",
+    "createdAt": "2026-07-28T08:51:15.296Z",
+    "updatedAt": "2026-07-28T08:51:15.296Z",
     "__v": 0
   },
   {
@@ -183,23 +183,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c73f"
+        "_id": "6a686d833b8f65086fdc30da"
       },
       {
         "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c740"
+        "_id": "6a686d833b8f65086fdc30db"
       },
       {
         "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c741"
+        "_id": "6a686d833b8f65086fdc30dc"
       },
       {
         "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c742"
+        "_id": "6a686d833b8f65086fdc30dd"
       },
       {
         "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c743"
+        "_id": "6a686d833b8f65086fdc30de"
       }
     ],
     "variants": [
@@ -207,23 +207,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c745"
+            "_id": "6a686d833b8f65086fdc30e0"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c746"
+            "_id": "6a686d833b8f65086fdc30e1"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c747"
+            "_id": "6a686d833b8f65086fdc30e2"
           },
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c748"
+            "_id": "6a686d833b8f65086fdc30e3"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c749"
+            "_id": "6a686d833b8f65086fdc30e4"
           }
         ],
         "stock": 25,
@@ -235,29 +235,29 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c744"
+        "_id": "6a686d833b8f65086fdc30df"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c74b"
+            "_id": "6a686d833b8f65086fdc30e6"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c74c"
+            "_id": "6a686d833b8f65086fdc30e7"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c74d"
+            "_id": "6a686d833b8f65086fdc30e8"
           },
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c74e"
+            "_id": "6a686d833b8f65086fdc30e9"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c74f"
+            "_id": "6a686d833b8f65086fdc30ea"
           }
         ],
         "stock": 25,
@@ -269,29 +269,29 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c74a"
+        "_id": "6a686d833b8f65086fdc30e5"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c751"
+            "_id": "6a686d833b8f65086fdc30ec"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c752"
+            "_id": "6a686d833b8f65086fdc30ed"
           },
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c753"
+            "_id": "6a686d833b8f65086fdc30ee"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c754"
+            "_id": "6a686d833b8f65086fdc30ef"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c755"
+            "_id": "6a686d833b8f65086fdc30f0"
           }
         ],
         "stock": 18,
@@ -303,29 +303,29 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c750"
+        "_id": "6a686d833b8f65086fdc30eb"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c757"
+            "_id": "6a686d833b8f65086fdc30f2"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c758"
+            "_id": "6a686d833b8f65086fdc30f3"
           },
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c759"
+            "_id": "6a686d833b8f65086fdc30f4"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c75a"
+            "_id": "6a686d833b8f65086fdc30f5"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c75b"
+            "_id": "6a686d833b8f65086fdc30f6"
           }
         ],
         "stock": 18,
@@ -337,12 +337,12 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c756"
+        "_id": "6a686d833b8f65086fdc30f1"
       }
     ],
-    "_id": "6a686b8a35fb22fa5406c73e",
-    "createdAt": "2026-07-28T08:42:50.937Z",
-    "updatedAt": "2026-07-28T08:42:50.937Z",
+    "_id": "6a686d833b8f65086fdc30d9",
+    "createdAt": "2026-07-28T08:51:15.297Z",
+    "updatedAt": "2026-07-28T08:51:15.297Z",
     "__v": 0
   },
   {
@@ -356,23 +356,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c75d"
+        "_id": "6a686d833b8f65086fdc30f8"
       },
       {
         "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c75e"
+        "_id": "6a686d833b8f65086fdc30f9"
       },
       {
         "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c75f"
+        "_id": "6a686d833b8f65086fdc30fa"
       },
       {
         "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c760"
+        "_id": "6a686d833b8f65086fdc30fb"
       },
       {
         "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c761"
+        "_id": "6a686d833b8f65086fdc30fc"
       }
     ],
     "variants": [
@@ -380,23 +380,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c763"
+            "_id": "6a686d833b8f65086fdc30fe"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c764"
+            "_id": "6a686d833b8f65086fdc30ff"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c765"
+            "_id": "6a686d833b8f65086fdc3100"
           },
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c766"
+            "_id": "6a686d833b8f65086fdc3101"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c767"
+            "_id": "6a686d833b8f65086fdc3102"
           }
         ],
         "stock": 8,
@@ -408,29 +408,29 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c762"
+        "_id": "6a686d833b8f65086fdc30fd"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c769"
+            "_id": "6a686d833b8f65086fdc3104"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c76a"
+            "_id": "6a686d833b8f65086fdc3105"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c76b"
+            "_id": "6a686d833b8f65086fdc3106"
           },
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c76c"
+            "_id": "6a686d833b8f65086fdc3107"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c76d"
+            "_id": "6a686d833b8f65086fdc3108"
           }
         ],
         "stock": 8,
@@ -442,29 +442,29 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c768"
+        "_id": "6a686d833b8f65086fdc3103"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c76f"
+            "_id": "6a686d833b8f65086fdc310a"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c770"
+            "_id": "6a686d833b8f65086fdc310b"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c771"
+            "_id": "6a686d833b8f65086fdc310c"
           },
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c772"
+            "_id": "6a686d833b8f65086fdc310d"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c773"
+            "_id": "6a686d833b8f65086fdc310e"
           }
         ],
         "stock": 5,
@@ -476,29 +476,29 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c76e"
+        "_id": "6a686d833b8f65086fdc3109"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c775"
+            "_id": "6a686d833b8f65086fdc3110"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c776"
+            "_id": "6a686d833b8f65086fdc3111"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c777"
+            "_id": "6a686d833b8f65086fdc3112"
           },
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c778"
+            "_id": "6a686d833b8f65086fdc3113"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c779"
+            "_id": "6a686d833b8f65086fdc3114"
           }
         ],
         "stock": 5,
@@ -510,12 +510,12 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c774"
+        "_id": "6a686d833b8f65086fdc310f"
       }
     ],
-    "_id": "6a686b8a35fb22fa5406c75c",
-    "createdAt": "2026-07-28T08:42:50.937Z",
-    "updatedAt": "2026-07-28T08:42:50.937Z",
+    "_id": "6a686d833b8f65086fdc30f7",
+    "createdAt": "2026-07-28T08:51:15.297Z",
+    "updatedAt": "2026-07-28T08:51:15.297Z",
     "__v": 0
   },
   {
@@ -529,23 +529,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c77b"
+        "_id": "6a686d833b8f65086fdc3116"
       },
       {
         "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c77c"
+        "_id": "6a686d833b8f65086fdc3117"
       },
       {
         "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c77d"
+        "_id": "6a686d833b8f65086fdc3118"
       },
       {
         "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c77e"
+        "_id": "6a686d833b8f65086fdc3119"
       },
       {
         "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c77f"
+        "_id": "6a686d833b8f65086fdc311a"
       }
     ],
     "variants": [
@@ -553,23 +553,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c781"
+            "_id": "6a686d833b8f65086fdc311c"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c782"
+            "_id": "6a686d833b8f65086fdc311d"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c783"
+            "_id": "6a686d833b8f65086fdc311e"
           },
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c784"
+            "_id": "6a686d833b8f65086fdc311f"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c785"
+            "_id": "6a686d833b8f65086fdc3120"
           }
         ],
         "stock": 14,
@@ -581,29 +581,29 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c780"
+        "_id": "6a686d833b8f65086fdc311b"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c787"
+            "_id": "6a686d833b8f65086fdc3122"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c788"
+            "_id": "6a686d833b8f65086fdc3123"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c789"
+            "_id": "6a686d833b8f65086fdc3124"
           },
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c78a"
+            "_id": "6a686d833b8f65086fdc3125"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c78b"
+            "_id": "6a686d833b8f65086fdc3126"
           }
         ],
         "stock": 14,
@@ -615,29 +615,29 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c786"
+        "_id": "6a686d833b8f65086fdc3121"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c78d"
+            "_id": "6a686d833b8f65086fdc3128"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c78e"
+            "_id": "6a686d833b8f65086fdc3129"
           },
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c78f"
+            "_id": "6a686d833b8f65086fdc312a"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c790"
+            "_id": "6a686d833b8f65086fdc312b"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c791"
+            "_id": "6a686d833b8f65086fdc312c"
           }
         ],
         "stock": 11,
@@ -649,29 +649,29 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c78c"
+        "_id": "6a686d833b8f65086fdc3127"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c793"
+            "_id": "6a686d833b8f65086fdc312e"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c794"
+            "_id": "6a686d833b8f65086fdc312f"
           },
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c795"
+            "_id": "6a686d833b8f65086fdc3130"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c796"
+            "_id": "6a686d833b8f65086fdc3131"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c797"
+            "_id": "6a686d833b8f65086fdc3132"
           }
         ],
         "stock": 11,
@@ -683,12 +683,12 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c792"
+        "_id": "6a686d833b8f65086fdc312d"
       }
     ],
-    "_id": "6a686b8a35fb22fa5406c77a",
-    "createdAt": "2026-07-28T08:42:50.937Z",
-    "updatedAt": "2026-07-28T08:42:50.937Z",
+    "_id": "6a686d833b8f65086fdc3115",
+    "createdAt": "2026-07-28T08:51:15.297Z",
+    "updatedAt": "2026-07-28T08:51:15.297Z",
     "__v": 0
   },
   {
@@ -702,23 +702,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c799"
+        "_id": "6a686d833b8f65086fdc3134"
       },
       {
         "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c79a"
+        "_id": "6a686d833b8f65086fdc3135"
       },
       {
         "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c79b"
+        "_id": "6a686d833b8f65086fdc3136"
       },
       {
         "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c79c"
+        "_id": "6a686d833b8f65086fdc3137"
       },
       {
         "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686b8a35fb22fa5406c79d"
+        "_id": "6a686d833b8f65086fdc3138"
       }
     ],
     "variants": [
@@ -726,23 +726,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c79f"
+            "_id": "6a686d833b8f65086fdc313a"
           },
           {
             "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a0"
+            "_id": "6a686d833b8f65086fdc313b"
           },
           {
             "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a1"
+            "_id": "6a686d833b8f65086fdc313c"
           },
           {
             "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a2"
+            "_id": "6a686d833b8f65086fdc313d"
           },
           {
             "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a3"
+            "_id": "6a686d833b8f65086fdc313e"
           }
         ],
         "stock": 30,
@@ -754,29 +754,29 @@
           "amount": 2799,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c79e"
+        "_id": "6a686d833b8f65086fdc3139"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a5"
+            "_id": "6a686d833b8f65086fdc3140"
           },
           {
             "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a6"
+            "_id": "6a686d833b8f65086fdc3141"
           },
           {
             "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a7"
+            "_id": "6a686d833b8f65086fdc3142"
           },
           {
             "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a8"
+            "_id": "6a686d833b8f65086fdc3143"
           },
           {
             "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686b8a35fb22fa5406c7a9"
+            "_id": "6a686d833b8f65086fdc3144"
           }
         ],
         "stock": 22,
@@ -788,12 +788,12 @@
           "amount": 2799,
           "currency": "INR"
         },
-        "_id": "6a686b8a35fb22fa5406c7a4"
+        "_id": "6a686d833b8f65086fdc313f"
       }
     ],
-    "_id": "6a686b8a35fb22fa5406c798",
-    "createdAt": "2026-07-28T08:42:50.937Z",
-    "updatedAt": "2026-07-28T08:42:50.937Z",
+    "_id": "6a686d833b8f65086fdc3133",
+    "createdAt": "2026-07-28T08:51:15.297Z",
+    "updatedAt": "2026-07-28T08:51:15.297Z",
     "__v": 0
   }
 ]

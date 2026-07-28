@@ -321,10 +321,12 @@ async function seedCatalog() {
 
         // Export clean JSON for the user
         const jsonPath = path.join(process.cwd(), 'snitch_products_5_photos.json');
+        const rootJsonPath = path.join(process.cwd(), '..', 'products.json');
         fs.writeFileSync(jsonPath, JSON.stringify(insertedProducts, null, 2));
+        fs.writeFileSync(rootJsonPath, JSON.stringify(insertedProducts, null, 2));
 
         console.log(`🔥 SUCCESSFULLY SEEDED ALL ${insertedProducts.length} PRODUCTS WITH 5 RELEVANT HD PHOTOS PER PRODUCT!`);
-        console.log(`Saved clean JSON data to: ${jsonPath}`);
+        console.log(`Saved clean JSON data to: ${jsonPath} and ${rootJsonPath}`);
         process.exit(0);
     } catch (err) {
         console.error("Seeding failed:", err);

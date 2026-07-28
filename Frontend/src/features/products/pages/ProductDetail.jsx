@@ -97,7 +97,7 @@ const ProductDetail = () => {
 
     useEffect(() => {
         setSelectedImage(0);
-    }, [ activeVariant ]);
+    }, [ selectedAttributes?.Color ]);
 
     const handleAttributeChange = (attrName, value) => {
         if (!product?.variants) return;
