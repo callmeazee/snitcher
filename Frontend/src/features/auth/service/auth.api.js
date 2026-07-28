@@ -7,6 +7,14 @@ const authApiInstance = axios.create({
   withCredentials: true,
 });
 
+authApiInstance.interceptors.request.use((config) => {
+    const token = localStorage.getItem("token");
+    if (token) {
+        config.headers.Authorization = `Bearer ${token}`;
+    }
+    return config;
+});
+
 
 export async function register({ email, contact, password, fullname, isSeller }) {
 

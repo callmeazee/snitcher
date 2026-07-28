@@ -16,8 +16,15 @@ function App() {
   console.log(user)
 
   useEffect(() => {
-    handleGetMe()
-  }, [])
+    const searchParams = new URLSearchParams(window.location.search);
+    const tokenFromUrl = searchParams.get('token');
+    if (tokenFromUrl) {
+      localStorage.setItem('token', tokenFromUrl);
+      const cleanUrl = window.location.pathname;
+      window.history.replaceState({}, document.title, cleanUrl);
+    }
+    handleGetMe();
+  }, []);
 
   return (
     <>

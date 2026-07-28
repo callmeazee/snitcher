@@ -9,17 +9,15 @@ export const useAuth = () => {
     const dispatch = useDispatch()
 
     async function handleRegister({ email, contact, password, fullname, isSeller = false }) {
-
         const data = await register({ email, contact, password, fullname, isSeller })
-
+        if (data?.token) localStorage.setItem("token", data.token);
         dispatch(setUser(data.user))
-
         return data.user
     }
 
     async function handleLogin({ email, password }) {
-
         const data = await login({ email, password })
+        if (data?.token) localStorage.setItem("token", data.token);
         dispatch(setUser(data.user))
         return data.user
     }
@@ -42,6 +40,7 @@ export const useAuth = () => {
         } catch (err) {
             console.error("Logout failed", err)
         } finally {
+            localStorage.removeItem("token");
             dispatch(setUser(null))
         }
     }

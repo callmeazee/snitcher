@@ -23,6 +23,7 @@ async function sendTokenResponse(user, res, message) {
     res.status(200).json({
         message,
         success: true,
+        token,
         user: {
             id: user._id,
             email: user.email,
@@ -135,7 +136,7 @@ export const googleCallback = async (req, res) => {
             path: "/"
         });
 
-        return res.redirect(`${clientUrl}/`);
+        return res.redirect(`${clientUrl}/?token=${token}`);
     } catch (error) {
         console.error("googleCallback Error:", error);
         const clientUrl = config.CLIENT_URL || process.env.CLIENT_URL || "http://localhost:5173";
