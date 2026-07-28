@@ -1,8 +1,9 @@
 import axios from "axios";
 
+const API_BASE = import.meta.env.VITE_API_URL || '';
+
 const authApiInstance = axios.create({
-  baseURL: "/api/auth",
-//   baseURL: `${"https://snitcher-o0xt.onrender.com"}/api/auth`,
+  baseURL: `${API_BASE}/api/auth`,
   withCredentials: true,
 });
 

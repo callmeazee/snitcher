@@ -1,10 +1,11 @@
-import axios from "axios"
+import axios from "axios";
 
+const API_BASE = import.meta.env.VITE_API_URL || '';
 
 const cartApiInstance = axios.create({
-    baseURL: "/api/cart",
+    baseURL: `${API_BASE}/api/cart`,
     withCredentials: true
-})
+});
 
 
 export const addItem = async ({ productId, variantId }) => {

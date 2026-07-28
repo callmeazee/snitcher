@@ -16,11 +16,22 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.use(cors({
-    origin: "http://localhost:5173",
-    methods: [ "GET", "POST", "PUT", "DELETE" ],
+    origin: function (origin, callback) {
+        if (!origin) return callback(null, true);
+        if (
+            origin === "http://localhost:5173" ||
+            origin === "http://localhost:3000" ||
+            origin === config.CLIENT_URL ||
+            origin.endsWith('.vercel.app') ||
+            origin.includes('onrender.com')
+        ) {
+            return callback(null, true);
+        }
+        return callback(null, true);
+    },
+    methods: [ "GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS" ],
     credentials: true
-}))
-
+}));
 
 app.use(passport.initialize());
 
@@ -29,7 +40,7 @@ passport.use(
     {
       clientID: config.GOOGLE_CLIENT_ID,
       clientSecret: config.GOOGLE_CLIENT_SECRET,
-      callbackURL: "http://localhost:3000/api/auth/google/callback",
+      callbackURL: config.GOOGLE_CALLBACK_URL || "http://localhost:3000/api/auth/google/callback",
     },
     (accessToken, refreshToken, profile, done) => {
       return done(null, profile);
