@@ -2,72 +2,58 @@ import cartModel from "../models/cart.model.js";
 import mongoose from "mongoose";
 
 export async function getCartDetails(userId) {
-    let cart = (await cartModel.aggregate([
-        {
-            $match: {
-                user: new mongoose.Types.ObjectId(userId)
-            }
-        },
-        { $unwind: { path: '$items' } },
-        {
-            $lookup: {
-                from: 'products',
-                localField: 'items.product',
-                foreignField: '_id',
-                as: 'items.product'
-            }
-        },
-        { $unwind: { path: '$items.product' } },
-        {
-            $unwind: {
-                path: '$items.product.variants',
-                preserveNullAndEmptyArrays: true
-            }
-        },
-        {
-            $match: {
-                $expr: {
-                    $or: [
-                        { $eq: [ '$items.variant', '$items.product.variants._id' ] },
-                        { $eq: [ '$items.variant', null ] }
-                    ]
-                }
-            }
-        },
-        {
-            $addFields: {
-                itemPrice: {
-                    price: {
-                        $multiply: [
-                            '$items.quantity',
-                            {
-                                $ifNull: [
-                                    '$items.product.variants.price.amount',
-                                    '$items.product.price.amount'
-                                ]
-                            }
-                        ]
-                    },
-                    currency: {
-                        $ifNull: [
-                            '$items.product.variants.price.currency',
-                            '$items.product.price.currency'
-                        ]
-                    }
-                }
-            }
-        },
-        {
-            $group: {
-                _id: '$_id',
-                totalPrice: { $sum: '$itemPrice.price' },
-                currency: {
-                    $first: '$itemPrice.currency'
-                },
-                items: { $push: '$items' }
-            }
-        }
-    ]))[ 0 ]
+    const rawCart = await cartModel.findOne({ user: userId }).populate({
+        path: 'items.product',
+        model: 'product'
+    }).lean();
 
-    return cart
+    if (!rawCart || !rawCart.items || rawCart.items.length === 0) {
+        return {
+            _id: rawCart?._id,
+            user: userId,
+            items: [],
+            totalPrice: 0,
+            currency: 'INR'
+        };
+    }
+
+    let totalPrice = 0;
+    let currency = 'INR';
+
+    const items = rawCart.items.map(item => {
+        const product = item.product;
+        if (!product) return null;
+
+        let selectedVariant = null;
+        if (item.variant && product.variants && product.variants.length > 0) {
+            selectedVariant = product.variants.find(v => v._id?.toString() === item.variant?.toString());
+        }
+        if (!selectedVariant && product.variants && product.variants.length > 0) {
+            selectedVariant = product.variants[ 0 ];
+        }
+
+        const priceAmount = selectedVariant?.price?.amount || product.price?.amount || 0;
+        currency = selectedVariant?.price?.currency || product.price?.currency || 'INR';
+
+        totalPrice += priceAmount * (item.quantity || 1);
+
+        return {
+            _id: item._id,
+            product: product,
+            variant: selectedVariant ? selectedVariant._id : item.variant,
+            quantity: item.quantity || 1,
+            price: {
+                amount: priceAmount,
+                currency
+            }
+        };
+    }).filter(Boolean);
+
+    return {
+        _id: rawCart._id,
+        user: userId,
+        items,
+        totalPrice,
+        currency
+    };
 }
