@@ -10,23 +10,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30bc"
+        "_id": "6a686ea6acb91e5c9e2e035e"
       },
       {
         "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30bd"
+        "_id": "6a686ea6acb91e5c9e2e035f"
       },
       {
         "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30be"
+        "_id": "6a686ea6acb91e5c9e2e0360"
       },
       {
         "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30bf"
+        "_id": "6a686ea6acb91e5c9e2e0361"
       },
       {
         "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30c0"
+        "_id": "6a686ea6acb91e5c9e2e0362"
       }
     ],
     "variants": [
@@ -34,23 +34,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30c2"
+            "_id": "6a686ea6acb91e5c9e2e0364"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30c3"
+            "_id": "6a686ea6acb91e5c9e2e0365"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30c4"
+            "_id": "6a686ea6acb91e5c9e2e0366"
           },
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30c5"
+            "_id": "6a686ea6acb91e5c9e2e0367"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30c6"
+            "_id": "6a686ea6acb91e5c9e2e0368"
           }
         ],
         "stock": 20,
@@ -62,29 +62,29 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30c1"
+        "_id": "6a686ea6acb91e5c9e2e0363"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30c8"
+            "_id": "6a686ea6acb91e5c9e2e036a"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30c9"
+            "_id": "6a686ea6acb91e5c9e2e036b"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ca"
+            "_id": "6a686ea6acb91e5c9e2e036c"
           },
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30cb"
+            "_id": "6a686ea6acb91e5c9e2e036d"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30cc"
+            "_id": "6a686ea6acb91e5c9e2e036e"
           }
         ],
         "stock": 20,
@@ -96,29 +96,29 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30c7"
+        "_id": "6a686ea6acb91e5c9e2e0369"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ce"
+            "_id": "6a686ea6acb91e5c9e2e0370"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30cf"
+            "_id": "6a686ea6acb91e5c9e2e0371"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d0"
+            "_id": "6a686ea6acb91e5c9e2e0372"
           },
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d1"
+            "_id": "6a686ea6acb91e5c9e2e0373"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d2"
+            "_id": "6a686ea6acb91e5c9e2e0374"
           }
         ],
         "stock": 15,
@@ -130,29 +130,29 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30cd"
+        "_id": "6a686ea6acb91e5c9e2e036f"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d4"
+            "_id": "6a686ea6acb91e5c9e2e0376"
           },
           {
             "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d5"
+            "_id": "6a686ea6acb91e5c9e2e0377"
           },
           {
             "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d6"
+            "_id": "6a686ea6acb91e5c9e2e0378"
           },
           {
             "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d7"
+            "_id": "6a686ea6acb91e5c9e2e0379"
           },
           {
             "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30d8"
+            "_id": "6a686ea6acb91e5c9e2e037a"
           }
         ],
         "stock": 15,
@@ -164,12 +164,12 @@
           "amount": 4499,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30d3"
+        "_id": "6a686ea6acb91e5c9e2e0375"
       }
     ],
-    "_id": "6a686d833b8f65086fdc30bb",
-    "createdAt": "2026-07-28T08:51:15.296Z",
-    "updatedAt": "2026-07-28T08:51:15.296Z",
+    "_id": "6a686ea6acb91e5c9e2e035d",
+    "createdAt": "2026-07-28T08:56:06.296Z",
+    "updatedAt": "2026-07-28T08:56:06.296Z",
     "__v": 0
   },
   {
@@ -183,23 +183,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30da"
+        "_id": "6a686ea6acb91e5c9e2e037c"
       },
       {
         "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30db"
+        "_id": "6a686ea6acb91e5c9e2e037d"
       },
       {
         "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30dc"
+        "_id": "6a686ea6acb91e5c9e2e037e"
       },
       {
         "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30dd"
+        "_id": "6a686ea6acb91e5c9e2e037f"
       },
       {
         "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30de"
+        "_id": "6a686ea6acb91e5c9e2e0380"
       }
     ],
     "variants": [
@@ -207,23 +207,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e0"
+            "_id": "6a686ea6acb91e5c9e2e0382"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e1"
+            "_id": "6a686ea6acb91e5c9e2e0383"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e2"
+            "_id": "6a686ea6acb91e5c9e2e0384"
           },
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e3"
+            "_id": "6a686ea6acb91e5c9e2e0385"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e4"
+            "_id": "6a686ea6acb91e5c9e2e0386"
           }
         ],
         "stock": 25,
@@ -235,29 +235,29 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30df"
+        "_id": "6a686ea6acb91e5c9e2e0381"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e6"
+            "_id": "6a686ea6acb91e5c9e2e0388"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e7"
+            "_id": "6a686ea6acb91e5c9e2e0389"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e8"
+            "_id": "6a686ea6acb91e5c9e2e038a"
           },
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30e9"
+            "_id": "6a686ea6acb91e5c9e2e038b"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ea"
+            "_id": "6a686ea6acb91e5c9e2e038c"
           }
         ],
         "stock": 25,
@@ -269,29 +269,29 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30e5"
+        "_id": "6a686ea6acb91e5c9e2e0387"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ec"
+            "_id": "6a686ea6acb91e5c9e2e038e"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ed"
+            "_id": "6a686ea6acb91e5c9e2e038f"
           },
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ee"
+            "_id": "6a686ea6acb91e5c9e2e0390"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ef"
+            "_id": "6a686ea6acb91e5c9e2e0391"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30f0"
+            "_id": "6a686ea6acb91e5c9e2e0392"
           }
         ],
         "stock": 18,
@@ -303,29 +303,29 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30eb"
+        "_id": "6a686ea6acb91e5c9e2e038d"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30f2"
+            "_id": "6a686ea6acb91e5c9e2e0394"
           },
           {
             "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30f3"
+            "_id": "6a686ea6acb91e5c9e2e0395"
           },
           {
             "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30f4"
+            "_id": "6a686ea6acb91e5c9e2e0396"
           },
           {
             "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30f5"
+            "_id": "6a686ea6acb91e5c9e2e0397"
           },
           {
             "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30f6"
+            "_id": "6a686ea6acb91e5c9e2e0398"
           }
         ],
         "stock": 18,
@@ -337,12 +337,12 @@
           "amount": 3299,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30f1"
+        "_id": "6a686ea6acb91e5c9e2e0393"
       }
     ],
-    "_id": "6a686d833b8f65086fdc30d9",
-    "createdAt": "2026-07-28T08:51:15.297Z",
-    "updatedAt": "2026-07-28T08:51:15.297Z",
+    "_id": "6a686ea6acb91e5c9e2e037b",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
     "__v": 0
   },
   {
@@ -356,23 +356,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30f8"
+        "_id": "6a686ea6acb91e5c9e2e039a"
       },
       {
         "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30f9"
+        "_id": "6a686ea6acb91e5c9e2e039b"
       },
       {
         "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30fa"
+        "_id": "6a686ea6acb91e5c9e2e039c"
       },
       {
         "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30fb"
+        "_id": "6a686ea6acb91e5c9e2e039d"
       },
       {
         "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc30fc"
+        "_id": "6a686ea6acb91e5c9e2e039e"
       }
     ],
     "variants": [
@@ -380,23 +380,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30fe"
+            "_id": "6a686ea6acb91e5c9e2e03a0"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc30ff"
+            "_id": "6a686ea6acb91e5c9e2e03a1"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3100"
+            "_id": "6a686ea6acb91e5c9e2e03a2"
           },
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3101"
+            "_id": "6a686ea6acb91e5c9e2e03a3"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3102"
+            "_id": "6a686ea6acb91e5c9e2e03a4"
           }
         ],
         "stock": 8,
@@ -408,29 +408,29 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc30fd"
+        "_id": "6a686ea6acb91e5c9e2e039f"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3104"
+            "_id": "6a686ea6acb91e5c9e2e03a6"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3105"
+            "_id": "6a686ea6acb91e5c9e2e03a7"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3106"
+            "_id": "6a686ea6acb91e5c9e2e03a8"
           },
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3107"
+            "_id": "6a686ea6acb91e5c9e2e03a9"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3108"
+            "_id": "6a686ea6acb91e5c9e2e03aa"
           }
         ],
         "stock": 8,
@@ -442,29 +442,29 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc3103"
+        "_id": "6a686ea6acb91e5c9e2e03a5"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc310a"
+            "_id": "6a686ea6acb91e5c9e2e03ac"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc310b"
+            "_id": "6a686ea6acb91e5c9e2e03ad"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc310c"
+            "_id": "6a686ea6acb91e5c9e2e03ae"
           },
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc310d"
+            "_id": "6a686ea6acb91e5c9e2e03af"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc310e"
+            "_id": "6a686ea6acb91e5c9e2e03b0"
           }
         ],
         "stock": 5,
@@ -476,29 +476,29 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc3109"
+        "_id": "6a686ea6acb91e5c9e2e03ab"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3110"
+            "_id": "6a686ea6acb91e5c9e2e03b2"
           },
           {
             "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3111"
+            "_id": "6a686ea6acb91e5c9e2e03b3"
           },
           {
             "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3112"
+            "_id": "6a686ea6acb91e5c9e2e03b4"
           },
           {
             "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3113"
+            "_id": "6a686ea6acb91e5c9e2e03b5"
           },
           {
             "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3114"
+            "_id": "6a686ea6acb91e5c9e2e03b6"
           }
         ],
         "stock": 5,
@@ -510,12 +510,12 @@
           "amount": 12999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc310f"
+        "_id": "6a686ea6acb91e5c9e2e03b1"
       }
     ],
-    "_id": "6a686d833b8f65086fdc30f7",
-    "createdAt": "2026-07-28T08:51:15.297Z",
-    "updatedAt": "2026-07-28T08:51:15.297Z",
+    "_id": "6a686ea6acb91e5c9e2e0399",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
     "__v": 0
   },
   {
@@ -529,23 +529,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3116"
+        "_id": "6a686ea6acb91e5c9e2e03b8"
       },
       {
         "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3117"
+        "_id": "6a686ea6acb91e5c9e2e03b9"
       },
       {
         "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3118"
+        "_id": "6a686ea6acb91e5c9e2e03ba"
       },
       {
         "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3119"
+        "_id": "6a686ea6acb91e5c9e2e03bb"
       },
       {
         "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc311a"
+        "_id": "6a686ea6acb91e5c9e2e03bc"
       }
     ],
     "variants": [
@@ -553,23 +553,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc311c"
+            "_id": "6a686ea6acb91e5c9e2e03be"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc311d"
+            "_id": "6a686ea6acb91e5c9e2e03bf"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc311e"
+            "_id": "6a686ea6acb91e5c9e2e03c0"
           },
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc311f"
+            "_id": "6a686ea6acb91e5c9e2e03c1"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3120"
+            "_id": "6a686ea6acb91e5c9e2e03c2"
           }
         ],
         "stock": 14,
@@ -581,29 +581,29 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc311b"
+        "_id": "6a686ea6acb91e5c9e2e03bd"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3122"
+            "_id": "6a686ea6acb91e5c9e2e03c4"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3123"
+            "_id": "6a686ea6acb91e5c9e2e03c5"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3124"
+            "_id": "6a686ea6acb91e5c9e2e03c6"
           },
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3125"
+            "_id": "6a686ea6acb91e5c9e2e03c7"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3126"
+            "_id": "6a686ea6acb91e5c9e2e03c8"
           }
         ],
         "stock": 14,
@@ -615,29 +615,29 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc3121"
+        "_id": "6a686ea6acb91e5c9e2e03c3"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3128"
+            "_id": "6a686ea6acb91e5c9e2e03ca"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3129"
+            "_id": "6a686ea6acb91e5c9e2e03cb"
           },
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc312a"
+            "_id": "6a686ea6acb91e5c9e2e03cc"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc312b"
+            "_id": "6a686ea6acb91e5c9e2e03cd"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc312c"
+            "_id": "6a686ea6acb91e5c9e2e03ce"
           }
         ],
         "stock": 11,
@@ -649,29 +649,29 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc3127"
+        "_id": "6a686ea6acb91e5c9e2e03c9"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc312e"
+            "_id": "6a686ea6acb91e5c9e2e03d0"
           },
           {
             "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc312f"
+            "_id": "6a686ea6acb91e5c9e2e03d1"
           },
           {
             "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3130"
+            "_id": "6a686ea6acb91e5c9e2e03d2"
           },
           {
             "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3131"
+            "_id": "6a686ea6acb91e5c9e2e03d3"
           },
           {
             "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3132"
+            "_id": "6a686ea6acb91e5c9e2e03d4"
           }
         ],
         "stock": 11,
@@ -683,12 +683,12 @@
           "amount": 3999,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc312d"
+        "_id": "6a686ea6acb91e5c9e2e03cf"
       }
     ],
-    "_id": "6a686d833b8f65086fdc3115",
-    "createdAt": "2026-07-28T08:51:15.297Z",
-    "updatedAt": "2026-07-28T08:51:15.297Z",
+    "_id": "6a686ea6acb91e5c9e2e03b7",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
     "__v": 0
   },
   {
@@ -702,23 +702,23 @@
     "images": [
       {
         "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3134"
+        "_id": "6a686ea6acb91e5c9e2e03d6"
       },
       {
         "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3135"
+        "_id": "6a686ea6acb91e5c9e2e03d7"
       },
       {
         "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3136"
+        "_id": "6a686ea6acb91e5c9e2e03d8"
       },
       {
         "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3137"
+        "_id": "6a686ea6acb91e5c9e2e03d9"
       },
       {
         "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
-        "_id": "6a686d833b8f65086fdc3138"
+        "_id": "6a686ea6acb91e5c9e2e03da"
       }
     ],
     "variants": [
@@ -726,23 +726,23 @@
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc313a"
+            "_id": "6a686ea6acb91e5c9e2e03dc"
           },
           {
             "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc313b"
+            "_id": "6a686ea6acb91e5c9e2e03dd"
           },
           {
             "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc313c"
+            "_id": "6a686ea6acb91e5c9e2e03de"
           },
           {
             "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc313d"
+            "_id": "6a686ea6acb91e5c9e2e03df"
           },
           {
             "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc313e"
+            "_id": "6a686ea6acb91e5c9e2e03e0"
           }
         ],
         "stock": 30,
@@ -754,29 +754,29 @@
           "amount": 2799,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc3139"
+        "_id": "6a686ea6acb91e5c9e2e03db"
       },
       {
         "images": [
           {
             "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3140"
+            "_id": "6a686ea6acb91e5c9e2e03e2"
           },
           {
             "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3141"
+            "_id": "6a686ea6acb91e5c9e2e03e3"
           },
           {
             "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3142"
+            "_id": "6a686ea6acb91e5c9e2e03e4"
           },
           {
             "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3143"
+            "_id": "6a686ea6acb91e5c9e2e03e5"
           },
           {
             "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
-            "_id": "6a686d833b8f65086fdc3144"
+            "_id": "6a686ea6acb91e5c9e2e03e6"
           }
         ],
         "stock": 22,
@@ -788,12 +788,1504 @@
           "amount": 2799,
           "currency": "INR"
         },
-        "_id": "6a686d833b8f65086fdc313f"
+        "_id": "6a686ea6acb91e5c9e2e03e1"
       }
     ],
-    "_id": "6a686d833b8f65086fdc3133",
-    "createdAt": "2026-07-28T08:51:15.297Z",
-    "updatedAt": "2026-07-28T08:51:15.297Z",
+    "_id": "6a686ea6acb91e5c9e2e03d5",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
+    "__v": 0
+  },
+  {
+    "title": "Midnight Velvet Tuxedo Blazer",
+    "description": "Statement evening blazer in deep velvet with silk satin peak lapels. Single-button silhouette with internal ticket pockets.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 8999,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03e8"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03e9"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03ea"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03eb"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03ec"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03ee"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03ef"
+          }
+        ],
+        "stock": 7,
+        "attributes": {
+          "Color": "Midnight Navy",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 8999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e03ed"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03f1"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03f2"
+          }
+        ],
+        "stock": 4,
+        "attributes": {
+          "Color": "Bordeaux Red",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 8999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e03f0"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e03e7",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
+    "__v": 0
+  },
+  {
+    "title": "Minimalist Oversized Graphic Tee",
+    "description": "280 GSM combed cotton tee featuring a high-density archive crest print. Drop shoulder silhouette with relaxed collar line.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 1899,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03f4"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03f5"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03f6"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03f7"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e03f8"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03fa"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03fb"
+          }
+        ],
+        "stock": 40,
+        "attributes": {
+          "Color": "Pitch Black",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 1899,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e03f9"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03fd"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e03fe"
+          }
+        ],
+        "stock": 35,
+        "attributes": {
+          "Color": "Chalk White",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 1899,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e03fc"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e03f3",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
+    "__v": 0
+  },
+  {
+    "title": "Obsidian Leather Chelsea Boots",
+    "description": "Handcrafted Italian calfskin leather Chelsea boots with elastic side gussets, stacked leather heel, and Blake stitch sole.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 9999,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0400"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0401"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0402"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0403"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0404"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0406"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0407"
+          }
+        ],
+        "stock": 10,
+        "attributes": {
+          "Color": "Polished Black",
+          "Size": "42"
+        },
+        "price": {
+          "amount": 9999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0405"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0409"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e040a"
+          }
+        ],
+        "stock": 8,
+        "attributes": {
+          "Color": "Polished Black",
+          "Size": "44"
+        },
+        "price": {
+          "amount": 9999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0408"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e03ff",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
+    "__v": 0
+  },
+  {
+    "title": "Structured Corduroy Utility Jacket",
+    "description": "Eight-wale cotton corduroy field jacket with deep box-pleated utility pockets, horn buttons, and soft flannel lining.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 4999,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e040c"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e040d"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e040e"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e040f"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0410"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0412"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0413"
+          }
+        ],
+        "stock": 16,
+        "attributes": {
+          "Color": "Tabac Brown",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 4999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0411"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0415"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0416"
+          }
+        ],
+        "stock": 12,
+        "attributes": {
+          "Color": "Forest Olive",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 4999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0414"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e040b",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
+    "__v": 0
+  },
+  {
+    "title": "Cashmere Blend Double-Breasted Overcoat",
+    "description": "Heavyweight wool-cashmere blend overcoat. Tailored with peak lapels, deep welt pockets, and a vent rear slit for a commanding profile.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 14999,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0418"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0419"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e041a"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e041b"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e041c"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e041e"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e041f"
+          }
+        ],
+        "stock": 6,
+        "attributes": {
+          "Color": "Camel",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 14999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e041d"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0421"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0422"
+          }
+        ],
+        "stock": 5,
+        "attributes": {
+          "Color": "Charcoal Black",
+          "Size": "XL"
+        },
+        "price": {
+          "amount": 14999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0420"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0417",
+    "createdAt": "2026-07-28T08:56:06.297Z",
+    "updatedAt": "2026-07-28T08:56:06.297Z",
+    "__v": 0
+  },
+  {
+    "title": "Minimalist Ribbed Merino Knit Sweater",
+    "description": "100% Merino wool crewneck knit with subtle raglan sleeves and micro-ribbed collar, cuffs, and hem. Exceptionally insulating and lightweight.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 3799,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0424"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0425"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0426"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0427"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0428"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e042a"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e042b"
+          }
+        ],
+        "stock": 18,
+        "attributes": {
+          "Color": "Cream White",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 3799,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0429"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e042d"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e042e"
+          }
+        ],
+        "stock": 15,
+        "attributes": {
+          "Color": "Oatmeal Beige",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 3799,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e042c"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0423",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Archive Flannel Plaid Button-Down",
+    "description": "Brushed cotton flannel shirt in a muted earth-tone plaid pattern. Features dual button-chest pockets and curved hem silhouette.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 2499,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0430"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0431"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0432"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0433"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0434"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0436"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0437"
+          }
+        ],
+        "stock": 22,
+        "attributes": {
+          "Color": "Earth Brown",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 2499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0435"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0439"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e043a"
+          }
+        ],
+        "stock": 19,
+        "attributes": {
+          "Color": "Forest Plaid",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 2499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0438"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e042f",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Monolith Leather Archive Crossbody",
+    "description": "Sculptural full-grain leather crossbody pouch with matte black buckle hardware, adjustable nylon strap, and waterproof interior lining.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 3499,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e043c"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e043d"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e043e"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e043f"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0440"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0442"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0443"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0444"
+          }
+        ],
+        "stock": 15,
+        "attributes": {
+          "Color": "Matte Black",
+          "Size": "One Size"
+        },
+        "price": {
+          "amount": 3499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0441"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e043b",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Pleated Wide-Leg Linen Trousers",
+    "description": "High-waisted wide-leg trousers in washed Italian linen. Features sharp front knife pleats, side slash pockets, and flowy silhouette.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 3499,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0446"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0447"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0448"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0449"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e044a"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e044c"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e044d"
+          }
+        ],
+        "stock": 20,
+        "attributes": {
+          "Color": "Parchment White",
+          "Size": "30"
+        },
+        "price": {
+          "amount": 3499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e044b"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e044f"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0450"
+          }
+        ],
+        "stock": 18,
+        "attributes": {
+          "Color": "Parchment White",
+          "Size": "32"
+        },
+        "price": {
+          "amount": 3499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e044e"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0445",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Raw Edge French Terry Sweatpants",
+    "description": "Relaxed fit sweatpants with raw bottom hem, elastic drawstring waist, and deep concealed zip pockets.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 2299,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0452"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0453"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0454"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0455"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0456"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0458"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0459"
+          }
+        ],
+        "stock": 25,
+        "attributes": {
+          "Color": "Ash Grey",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 2299,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0457"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e045b"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e045c"
+          }
+        ],
+        "stock": 20,
+        "attributes": {
+          "Color": "Ash Grey",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 2299,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e045a"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0451",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Classic Satin Bomber Jacket",
+    "description": "Japanese nylon-satin bomber with ribbed collar and waist trim, heavy-duty metal zip, and orange contrast interior lining.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 5999,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e045e"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e045f"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0460"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0461"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0462"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0464"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0465"
+          }
+        ],
+        "stock": 14,
+        "attributes": {
+          "Color": "Sage Green",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 5999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0463"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0467"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0468"
+          }
+        ],
+        "stock": 10,
+        "attributes": {
+          "Color": "Midnight Black",
+          "Size": "XL"
+        },
+        "price": {
+          "amount": 5999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0466"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e045d",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Heavyweight Double-Knit Zip Polo",
+    "description": "Double-knit Pima cotton zip polo with quarter metal zipper, clean flat-knit collar, and tapered cuffs.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 2699,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e046a"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e046b"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e046c"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e046d"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e046e"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0470"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0471"
+          }
+        ],
+        "stock": 22,
+        "attributes": {
+          "Color": "Off-White",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 2699,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e046f"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0473"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0474"
+          }
+        ],
+        "stock": 18,
+        "attributes": {
+          "Color": "Off-White",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 2699,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0472"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0469",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Minimalist Suede Loafers",
+    "description": "Handcrafted suede penny loafers with soft calfskin footbed and flexible leather sole for effortless refinement.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 7999,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0476"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0477"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0478"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0479"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e047a"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e047c"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e047d"
+          }
+        ],
+        "stock": 12,
+        "attributes": {
+          "Color": "Warm Taupe",
+          "Size": "42"
+        },
+        "price": {
+          "amount": 7999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e047b"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e047f"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0480"
+          }
+        ],
+        "stock": 9,
+        "attributes": {
+          "Color": "Warm Taupe",
+          "Size": "43"
+        },
+        "price": {
+          "amount": 7999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e047e"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0475",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Deconstructed Tailored Blazer",
+    "description": "Unlined, deconstructed summer blazer in stretch cotton-twill. Features soft shoulders, patch pockets, and unbuttoned cuffs.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 6499,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0482"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0483"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0484"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0485"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0486"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0488"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0489"
+          }
+        ],
+        "stock": 11,
+        "attributes": {
+          "Color": "Dark Navy",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 6499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0487"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e048b"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e048c"
+          }
+        ],
+        "stock": 8,
+        "attributes": {
+          "Color": "Stone Beige",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 6499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e048a"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0481",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Heavyweight Waffle Knit Henley",
+    "description": "Thermodynamic waffle-knit thermal henley shirt with genuine horn buttons and soft flatlock stitching throughout.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 2199,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e048e"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e048f"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0490"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0491"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e0492"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0494"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0495"
+          }
+        ],
+        "stock": 25,
+        "attributes": {
+          "Color": "Raw Linen",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 2199,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0493"
+      },
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0497"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e0498"
+          }
+        ],
+        "stock": 20,
+        "attributes": {
+          "Color": "Raw Linen",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 2199,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e0496"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e048d",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Tuscan Suede Harrington Jacket",
+    "description": "Italian calf suede Harrington zip jacket with umbrella back yoke, double-button throat latch, and tartan satin lining.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 11499,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e049a"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e049b"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e049c"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e049d"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e049e"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04a0"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04a1"
+          }
+        ],
+        "stock": 9,
+        "attributes": {
+          "Color": "Tuscan Tan",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 11499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e049f"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e0499",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Vintage Wash Oversized Denim Jacket",
+    "description": "Heavyweight 14oz stone-washed denim jacket with dropped shoulders, branded shank buttons, and twin chest pockets.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 5299,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04a3"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04a4"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1582552938357-32b906df40cb?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04a5"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04a6"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04a7"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04a9"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04aa"
+          }
+        ],
+        "stock": 15,
+        "attributes": {
+          "Color": "Vintage Blue",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 5299,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e04a8"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e04a2",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Sculptural Chunky Sole Derby Shoes",
+    "description": "Polished smooth leather Derby shoes featuring a commando lug sole, welted construction, and wax cord laces.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 8499,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04ac"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04ad"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04ae"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04af"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04b0"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04b2"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04b3"
+          }
+        ],
+        "stock": 12,
+        "attributes": {
+          "Color": "Jet Black",
+          "Size": "42"
+        },
+        "price": {
+          "amount": 8499,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e04b1"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e04ab",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Silk-Blend Minimalist Cuban Collar Shirt",
+    "description": "Fluid silk-cotton blend camp collar shirt with straight hem, side vents, and custom tortoiseshell buttons.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 3599,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04b5"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04b6"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04b7"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04b8"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04b9"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04bb"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04bc"
+          }
+        ],
+        "stock": 20,
+        "attributes": {
+          "Color": "Ecru Silk",
+          "Size": "M"
+        },
+        "price": {
+          "amount": 3599,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e04ba"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e04b4",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
+    "__v": 0
+  },
+  {
+    "title": "Executive Pinstripe Wool Suit",
+    "description": "Subtle chalk pinstripe wool two-piece suit with half-canvassed construction, horn buttons, and flat-front trousers.",
+    "seller": "69e86a2c24ed64fdd573cc48",
+    "price": {
+      "amount": 16999,
+      "currency": "INR"
+    },
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04be"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04bf"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04c0"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04c1"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=1000&q=80",
+        "_id": "6a686ea6acb91e5c9e2e04c2"
+      }
+    ],
+    "variants": [
+      {
+        "images": [
+          {
+            "url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04c4"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=1000&q=80",
+            "_id": "6a686ea6acb91e5c9e2e04c5"
+          }
+        ],
+        "stock": 7,
+        "attributes": {
+          "Color": "Pinstripe Navy",
+          "Size": "L"
+        },
+        "price": {
+          "amount": 16999,
+          "currency": "INR"
+        },
+        "_id": "6a686ea6acb91e5c9e2e04c3"
+      }
+    ],
+    "_id": "6a686ea6acb91e5c9e2e04bd",
+    "createdAt": "2026-07-28T08:56:06.298Z",
+    "updatedAt": "2026-07-28T08:56:06.298Z",
     "__v": 0
   }
 ]
